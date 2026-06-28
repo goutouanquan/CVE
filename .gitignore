@@ -1,0 +1,7 @@
+repos/
+CLAUDE.md
+targets/
+results/
+*.tmp
+*.bak
+.playwright-mcp/
